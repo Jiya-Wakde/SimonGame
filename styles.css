@@ -64,8 +64,8 @@ h3{
 #clickToStart{
   margin: 25px;
   display:inline-block;
-  height: 60px;
-  width: 150px;
+  height: 70px;
+  width: 200px;
   border: 2px solid white;
   border-radius: 10%;
   background-color:black;
@@ -73,6 +73,6 @@ h3{
 
 h2{
   color: aliceblue;
-  font-size: 20px;
+  font-size: 22px;
   text-align: center;
 }
